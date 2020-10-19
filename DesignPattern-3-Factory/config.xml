@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<factory>designpattern.factory.Factory100</factory>
+	<factory>designpattern.factory.Factory20</factory>
+	<factory>designpattern.factory.Factory10</factory>
+</config>
